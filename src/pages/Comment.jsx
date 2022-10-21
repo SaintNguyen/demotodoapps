@@ -208,6 +208,8 @@ function Comment() {
     <div className="App1" onLoad={checkStatus}>
       <div className="wrapper">
         <div className="content">
+         <div className = "header1 text-center">
+        <h2 className="gradient-text">PLESE MESSAGE ME 😁! </h2></div>
           <div className="header">
             <div className="img">
               <img src={image} alt="" />
