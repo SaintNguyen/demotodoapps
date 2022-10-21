@@ -45,7 +45,7 @@ const Dashboard = () => {
 
     return (
         <>
-        <div className = "header text-center">
+        <div className = "header1 text-center">
         <h2 className="gradient-text">TODO LIST</h2>
             <button className = "button-85" role="button" onClick = {() => setModal(true)} ><h6 className="gradient-text">Create Task</h6></button>
         </div>
