@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/demotodoapps/static/css/main.7d58b6f8.chunk.css",
+    "main.js": "/demotodoapps/static/js/main.7c277739.chunk.js",
+    "main.js.map": "/demotodoapps/static/js/main.7c277739.chunk.js.map",
+    "runtime-main.js": "/demotodoapps/static/js/runtime-main.2e5a870d.js",
+    "runtime-main.js.map": "/demotodoapps/static/js/runtime-main.2e5a870d.js.map",
+    "static/css/2.0aa2bd34.chunk.css": "/demotodoapps/static/css/2.0aa2bd34.chunk.css",
+    "static/js/2.d9ece49a.chunk.js": "/demotodoapps/static/js/2.d9ece49a.chunk.js",
+    "static/js/2.d9ece49a.chunk.js.map": "/demotodoapps/static/js/2.d9ece49a.chunk.js.map",
+    "static/js/3.a2d4b48d.chunk.js": "/demotodoapps/static/js/3.a2d4b48d.chunk.js",
+    "static/js/3.a2d4b48d.chunk.js.map": "/demotodoapps/static/js/3.a2d4b48d.chunk.js.map",
+    "index.html": "/demotodoapps/index.html",
+    "static/css/2.0aa2bd34.chunk.css.map": "/demotodoapps/static/css/2.0aa2bd34.chunk.css.map",
+    "static/css/main.7d58b6f8.chunk.css.map": "/demotodoapps/static/css/main.7d58b6f8.chunk.css.map",
+    "static/js/2.d9ece49a.chunk.js.LICENSE.txt": "/demotodoapps/static/js/2.d9ece49a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/demotodoapps/static/media/Star_Wars.225c3567.jpg",
+    "static/media/XuanHuu.6c85c2c4.jpg": "/demotodoapps/static/media/XuanHuu.6c85c2c4.jpg",
+    "static/media/font-awesome.min.css": "/demotodoapps/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e5a870d.js",
+    "static/css/2.0aa2bd34.chunk.css",
+    "static/js/2.d9ece49a.chunk.js",
+    "static/css/main.7d58b6f8.chunk.css",
+    "static/js/main.7c277739.chunk.js"
+  ]
+}
