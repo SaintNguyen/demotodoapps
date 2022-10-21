@@ -408,6 +408,7 @@ h7{
   justify-content: center;
   min-height: 100vh;
   min-width: 200vh;
+  background-color: #e9eef6;
 }
 .wrapper{
   width: 100%;
